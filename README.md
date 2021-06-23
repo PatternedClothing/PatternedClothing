@@ -1,5 +1,5 @@
 Hi, I’m @PatternedClothing
-I’m interested in understanding how to produce a phishing campaign through GoPhish. But god am I struggling for now. 
+and I’m interested in understanding how to produce a phishing campaign through GoPhish. But god am I struggling for now. 
 I'll be asking a lot of questions so please bear with me?
 
 <!---
